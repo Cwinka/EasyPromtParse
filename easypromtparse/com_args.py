@@ -17,8 +17,8 @@ import sys
 from typing import Union
 from collections import deque, defaultdict
 
-from command import Command
-from errors import CommandError
+from easypromtparse.command import Command
+from easypromtparse.errors import CommandError
 
 
 

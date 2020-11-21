@@ -1,3 +1,3 @@
-from com_args import CommandParser
-from command import BaseCommand, Command
-from errors import CommandError, PermissionError
+from easypromtparse.com_args import CommandParser
+from easypromtparse.command import BaseCommand, Command
+from easypromtparse.errors import CommandError, PermissionError

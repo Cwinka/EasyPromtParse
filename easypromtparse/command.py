@@ -1,5 +1,5 @@
 from collections import deque, defaultdict
-from errors import PermissionError
+from easypromtparse.errors import PermissionError
 
 class BaseCommand:
     arguments = defaultdict(list)
